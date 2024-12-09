@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Push-ups",
+        "description": "Push-ups are a fantastic exercise for building strength.",
+        "type": "Strength",
+        "image": "pushup.jpg"
+    },
+    {
+        "name": "Jumping Jacks",
+        "description": "Jumping jacks are an excellent full-body exercise.",
+        "type": "Cardio",
+        "image": "jumping_jacks.jpg"
+    }
+]
